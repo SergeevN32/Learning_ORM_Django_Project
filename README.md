@@ -12,7 +12,7 @@ Run the following commands to bootstrap your environment:
 
     python -m venv venv
     venv/Scripts/activate.bat
-    pip install -r requirements/dev.txt
+    pip install -r requirements.txt
 
 Run the app locally:
 
